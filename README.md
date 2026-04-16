@@ -43,3 +43,26 @@ Dataset Description: The dataset contains approximately 49,000 observations with
 15.calculated_host_listings_count: Total count of listings the host has.
 
 16.availability_365: Availability of the listing in the next 365 days.
+
+
+## Conclusion:
+
+1.Price is influenced by room type and neighborhood: Listings in prime neighborhoods and entire homes or apartments tend to have higher prices compared to shared rooms or private rooms in less popular areas.
+
+2.Host activity impacts listing success: Hosts with multiple listings and higher review counts generally perform better in terms of bookings and positive feedback.
+
+3.Minimum nights requirement affects booking frequency: Listings with higher minimum night requirements tend to have lower booking frequencies, indicating a preference for shorter stays among guests.
+
+4.Review frequency and recency correlate with guest satisfaction: Listings with frequent and recent reviews are more likely to maintain high occupancy rates and receive positive feedback from guests.
+
+5.Availability patterns reveal seasonal trends: Listings show varying availability patterns throughout the year, with certain months experiencing higher demand, likely due to local events or peak travel seasons.
+
+6.Latitude and longitude provide locational insights: Geographical coordinates help in identifying high-demand areas, which can inform strategic decisions on expanding listings in popular regions.
+
+7.High review counts and positive sentiment enhance listing attractiveness: Listings with numerous positive reviews and high sentiment scores from guests are more attractive to potential bookers, indicating the importance of maintaining good host-guest relationships.
+
+8.Room type popularity varies by neighborhood: Certain room types are more popular in specific neighborhoods, reflecting local preferences and influencing listing strategies.
+
+9.International plan listings see diverse guest interactions: Listings catering to international guests may show different patterns in booking behaviors and feedback compared to those primarily serving domestic travelers.
+
+10.Listing name and description play a role in guest decisions: Well-crafted listing names and descriptions can positively impact booking rates, highlighting the importance of effective marketing and presentation.
